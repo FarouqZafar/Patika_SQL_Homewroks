@@ -10,7 +10,7 @@ Create table employee(
   insert into employee (id, name, birthday, email) values (1, 'Elsie', '7/20/1998', 'elippiatt0@macromedia.com');
   insert into employee (id, name, birthday, email) values (2, 'Garnet', '9/26/1931', 'gwilman1@google.es');
   ...
-  insert into employee (id, name, birthday, email) values (19, 'Aeriela', '9/16/1963', 'astollmeieri@yan
+  insert into employee (id, name, birthday, email) values (19, 'Aeriela', '9/16/1963', 'astollmeieri@yan');
   insert into employee (id, name, birthday, email) values (50, 'Sayre', '2/13/2007', 'sgilbeart1d@gov.uk');
   
   --3
